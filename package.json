@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/GoldenFlyers/NodeJs_Postgres#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "pg": "^8.3.0"
   }
 }
