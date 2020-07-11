@@ -1,0 +1,29 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "NodeJS Restful API with CRUD Operation using Postgres DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenFlyers/NodeJs_Postgres.git"
+  },
+  "keywords": [
+    "NodeJS_API",
+    "&",
+    "Postgres",
+    "DB"
+  ],
+  "author": "Robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenFlyers/NodeJs_Postgres/issues"
+  },
+  "homepage": "https://github.com/GoldenFlyers/NodeJs_Postgres#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
